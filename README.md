@@ -1,5 +1,7 @@
 # To-Do List (React + TypeScript)
 
+![Demonstration](./src/assets/demo.gif)
+
 This is a simple To-Do List application built with **React** using **TypeScript** and **Vite** for bundling. It allows you to add, delete, mark tasks as completed, and filter them by status (All / Active / Completed).
 
 > **Note:** This project is built with [Vite](https://vitejs.dev/). All development and build commands are defined in the `package.json` scripts.
